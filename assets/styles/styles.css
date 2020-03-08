@@ -112,16 +112,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .cta .cta-button {
-		color: #cc4b37;
+		color: #6C63FF;
 		text-transform: uppercase;
-		border: 2px solid rgba(255, 103, 68, 0.91);
+		border: 2px solid #6C63FF;
 		border-radius: 50px;
 		background: white;
 }
 
 .cta .cta-button:hover, .cta .cta-button:focus {
 		box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
-		background-color: rgba(255, 103, 68, 0.91);
+		background-color: #6C63FF;
 		color: white;
 }
 
@@ -129,13 +129,13 @@ h1, h2, h3, h4, h5, h6 {
 	margin-top: 2em;
 }
 
-.fa {
+.fab {
 	font-size: 1.2em;
 	padding: 0.1em 0.4em;
-	color: #8a8a8a;
+	color: #6C63FF;
 }
 
-.fa:hover {
+.fab:hover {
 	cursor: pointer;
 }
 
@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #experience i {
-	color: rgb(255, 138, 89);
+	color: #6C63FF;
 	font-size: 4em;
 }
 
