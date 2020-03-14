@@ -228,13 +228,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .details a, .details a:link, .details a:active{
 		color: #6C63FF;
-		border: 2px solid rgba(255, 103, 68, 0.91) !important;
+		border: 2px solid #6C63FF !important;
 		background-color: #fff;
 }
 
 .details a:hover, .details a:focus {
 		/*box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);*/
-		background-color: rgba(255, 103, 68, 0.91) !important;
+		background-color:#6C63FF !important;
 		color: #fff;
 }
 
@@ -307,7 +307,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #footer-cta a:hover {
 	background: #fff;
-	color: rgba(255, 103, 68, 0.91);
+	color:#6C63FF;
 	box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
 }
 
