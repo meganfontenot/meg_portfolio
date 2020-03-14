@@ -210,11 +210,11 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 2em 0 -0.1em;
 	font-family: "Maven pro", sans-serif;
 	font-weight: 500;
-	color: #ff7654;
+	color: #6C63FF;
 }
 
 .details i {
-	color: #ff7654;
+	color: #6C63FF;
 	margin-right: 1em;
 }
 
@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .details a, .details a:link, .details a:active{
-		color: rgba(255, 103, 68, 0.91);
+		color: #6C63FF;
 		border: 2px solid rgba(255, 103, 68, 0.91) !important;
 		background-color: #fff;
 }
