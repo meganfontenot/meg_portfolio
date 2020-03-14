@@ -1,1 +1,1 @@
-# Megan's Personal Portfolio
+# Megan's Personal Portfolio.
