@@ -71,12 +71,12 @@ function makeWords() {
 }
 
 function makeWordCloud(words) {
-	$('.teaching-domains').jQCloud(words, {delay: 120});
+	$('.teaching-domains').jQCloud(words, { delay: 120 });
 }
 
 function displayWordCloud() {
 	var count = 1;
-	$(window).on('scroll', function() {
+	$(window).on('scroll', function () {
 		var y_scroll_pos = window.pageYOffset;
 		var scroll_pos_test = 2700; // set to whatever you want it to be
 		var words = makeWords();
@@ -91,7 +91,7 @@ function designForm() {
 	$("#my-modal form").addClass("my-form");
 }
 
-$(document).ready(function() {
+$(document).ready(function () {
 	Typed.new("#writing-text", {
 		strings: [
 			"am a Full-Stack Web Developer.", "love everything about code.", "also teach programming to people.", "solve problems."
@@ -101,11 +101,11 @@ $(document).ready(function() {
 		// typing speed
 		typeSpeed: 1,
 		contentType: 'text',
-		callback: function() {
-			$("#writing-text").css({"color": "#fff", "background-color": "#C8412B"});
+		callback: function () {
+			$("#writing-text").css({ "color": "#fff", "background-color": "#faed27" });
 		},
-		preStringTyped: function() {},
-		onStringTyped: function() {}
+		preStringTyped: function () { },
+		onStringTyped: function () { }
 	});
 
 	displayWordCloud();
