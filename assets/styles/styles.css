@@ -139,6 +139,18 @@ h1, h2, h3, h4, h5, h6 {
 	cursor: pointer;
 }
 
+/* aboutMe Bio Section*/
+
+#aboutMe {
+	padding: 6em 4em 3em;
+}
+
+#aboutMe h2 {
+	color: #595959;
+}
+
+
+
 /*** Experience ***/
 #experience {
 	background-color: #6C63FF;
