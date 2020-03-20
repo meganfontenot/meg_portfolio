@@ -1,5 +1,5 @@
 # Megan's Personal Portfolio.
-### You can see my portfolio here: 
+### You can see my portfolio on Github pages here: 
 
 ## Socials
 https://www.linkedin.com/in/meganfontenot/
