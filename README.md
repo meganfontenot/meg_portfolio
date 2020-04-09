@@ -1,11 +1,12 @@
 # Megan's Personal Portfolio.
-## You can see my portfolio on Github pages here- 
+![Screen Shot 2020-04-09 at 10 03 56 AM](https://user-images.githubusercontent.com/33911508/78909754-9806b880-7a49-11ea-8669-895db16e1a8b.png)
+
 
 ## Socials
 https://www.linkedin.com/in/meganfontenot/
 
 ## Bio
-My name is Megan Fontenot and I am a Section Lead at Lambda School. I am an enthusiastic coder and programmer, and I enjoy using my skills to contribute to the exciting technological advances that my product teams develop while ensuring they meet the required goals and deadlines in their sprints. 
+My name is Megan Fontenot and I am currently a Section Lead at Lambda School. I am an enthusiastic coder and programmer, and enjoy using my skills to contribute to the exciting technological advances that my product teams develop while ensuring they meet the required goals and deadlines in their sprints. 
 
 I graduated from Lambda School’s full-stack Web Development curriculum in 2019. While in school, I learned the essentials of full-stack development as well as how to uphold an agile life cycle to ensure efficient development. 
 
