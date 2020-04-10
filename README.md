@@ -3,7 +3,8 @@
 
 
 ## Socials
-https://www.linkedin.com/in/meganfontenot/
+LinkedIn: https://www.linkedin.com/in/meganfontenot/
+Twitter: https://twitter.com/MeganFontenot5
 
 ## Bio
 My name is Megan Fontenot and I am currently a Section Lead at Lambda School. I am an enthusiastic coder and programmer, and enjoy using my skills to contribute to the exciting technological advances that my product teams develop while ensuring they meet the required goals and deadlines in their sprints. 
