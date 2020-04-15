@@ -11,5 +11,5 @@ My name is Megan Fontenot and I am currently a Section Lead at Lambda School. I 
 
 I graduated from Lambda School’s full-stack Web Development curriculum in 2019. While in school, I learned the essentials of full-stack development as well as how to uphold an agile life cycle to ensure efficient development. 
 
-I took a contract position at Lambda School in student leadership directly after graduation and was promoted to my current position in January of 2020. I am obsessed with all things product development and I spend my free time as a hobby writer and teaching other people how to code. I enjoy watching sci-fi movies (the cheesier, the better), binge reading whole series’ of books, and counting down the months until the next Marvel movie. 
+I took a contract position at Lambda School in student leadership directly after graduation and was promoted to my current position in January of 2020. I am obsessed with all things product development and I spend my free time as a hobby writer and teaching other people how to code. I enjoy watching sci-fi movies (the cheesier, the better), binge reading whole series’ of books, and counting down the months until the next Marvel movie.. 
 
