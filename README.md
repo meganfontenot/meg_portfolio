@@ -4,6 +4,6 @@
 
 
 ## Bio
-My name is Megan Fontenot. I am an enthusiastic coder and programmer, and enjoy using my skills to contribute to the exciting technological advances that my product teams develop while ensuring they meet the required goals and deadlines in their sprints. 
+My name is Megan Fontenot. I am an enthusiastic coder and programmer, and enjoy using my skills to contribute to the exciting technological advances that my product teams develop while ensuring they meet the required goals and deadlines in their sprints.. 
 
 
